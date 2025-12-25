@@ -56,11 +56,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshajtiwari&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshajtiwari&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshajtiwari&show_icons=true&theme=dracula" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshajtiwari&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajtiwari&theme=react&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajtiwari&theme=dracula&area=true"/>
 </p>
 
 ---
