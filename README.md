@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,git,github,vscode&theme=dark" alt="PyTorch, TensorFlow, Linux, Git, GitHub and VS Code" />
 </p>
 
-<h3 align="center">📈 3D Contribution Calendar</h3>
+<!-- <h3 align="center">📈 3D Contribution Calendar</h3> -->
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-purple-animate.svg" alt="Akshaj's 3D GitHub contribution calendar" width="100%" />
